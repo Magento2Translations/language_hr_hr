@@ -74,7 +74,6 @@ All,Sve,module,Magento_Catalog
 Qty,Kol,module,Magento_Catalog
 Price,Cijena,module,Magento_Checkout
 Qty,Kol,module,Magento_Checkout
-"What's this?","Što je ovo?",module,Magento_Checkout
 Edit,Uredi,module,Magento_Checkout
 Edit,Uredi,module,Magento_Cms
 Delete,Obriši,module,Magento_Cms
@@ -133,7 +132,6 @@ Custom,Prilagođeno,module,Magento_Integration
 All,Sve,module,Magento_Integration
 No,Ne,module,Magento_LayeredNavigation
 Remove,Ukloni,module,Magento_LayeredNavigation
-"What's this?","Što je ovo?",module,Magento_Msrp
 Price,Cijena,module,Magento_Msrp
 Product,Proizvod,module,Magento_Multishipping
 Qty,Kol,module,Magento_Multishipping
@@ -155,6 +153,7 @@ Custom,Prilagođeno,module,Magento_Paypal
 Edit,Uredi,module,Magento_Paypal
 Price,Cijena,module,Magento_Paypal
 Qty,Kol,module,Magento_Paypal
+"What's this?","Što je ovo?",module,Magento_Persistent
 Discount,Popust,module,Magento_Quote
 From,Od,module,Magento_Reports
 To,Do,module,Magento_Reports
@@ -249,12 +248,6 @@ Edit,Uredi,module,Magento_Wishlist
 Product,Proizvod,module,Magento_Wishlist
 Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
-Cancel,Poništi,lib,lib/web/mage/adminhtml/backup.js
-Close,Zatvori,lib,lib/web/mage/dropdown.js
-Cancel,Poništi,lib,lib/web/mage/translate-inline-vde.js
-Save,Spremi,lib,lib/web/mage/translate-inline-vde.js
-Submit,Potvrdi,lib,lib/web/mage/translate-inline.js
-Close,Zatvori,lib,lib/web/mage/translate-inline.js
 Cancel,Poništi,module,Magento_Catalog
 Submit,Potvrdi,module,Magento_Catalog
 Save,Spremi,module,Magento_ProductVideo
