@@ -41,40 +41,43 @@ Name,Naziv,module,Magento_Bundle
 From,Od,module,Magento_Bundle
 To,Do,module,Magento_Bundle
 Quantity,Količina,module,Magento_Bundle
+Quantity,Količina,module,Magento_CatalogInventory
 Qty,Kol,module,Magento_CatalogInventory
-No,Ne,module,Magento_CatalogRule
-Yes,Da,module,Magento_CatalogRule
+Save,Spremi,module,Magento_CatalogRule
 Product,Proizvod,module,Magento_CatalogRule
 All,Sve,module,Magento_CatalogSearch
 Yes,Da,module,Magento_CatalogSearch
 No,Ne,module,Magento_CatalogSearch
 Product,Proizvod,module,Magento_CatalogSearch
+Delete,Obriši,module,Magento_Catalog
+Save,Spremi,module,Magento_Catalog
 Name,Naziv,module,Magento_Catalog
 Price,Cijena,module,Magento_Catalog
+Cancel,Poništi,module,Magento_Catalog
 No,Ne,module,Magento_Catalog
 Yes,Da,module,Magento_Catalog
 Back,Natrag,module,Magento_Catalog
-Delete,Obriši,module,Magento_Catalog
-Save,Spremi,module,Magento_Catalog
 Quantity,Količina,module,Magento_Catalog
 Edit,Uredi,module,Magento_Catalog
 "Are you sure?","Jeste li sigurni?",module,Magento_Catalog
 Product,Proizvod,module,Magento_Catalog
 Products,Proizvodi,module,Magento_Catalog
 All,Sve,module,Magento_Catalog
+To,Do,module,Magento_Catalog
 Qty,Kol,module,Magento_Catalog
 Price,Cijena,module,Magento_Checkout
 Qty,Kol,module,Magento_Checkout
 "What's this?","Što je ovo?",module,Magento_Checkout
 Edit,Uredi,module,Magento_Checkout
+Back,Natrag,module,Magento_Cms
 Edit,Uredi,module,Magento_Cms
 Delete,Obriši,module,Magento_Cms
 No,Ne,module,Magento_Config
 Yes,Da,module,Magento_Config
 Delete,Obriši,module,Magento_Config
+Name,Naziv,module,Magento_ConfigurableProduct
 Price,Cijena,module,Magento_ConfigurableProduct
 Quantity,Količina,module,Magento_ConfigurableProduct
-Name,Naziv,module,Magento_ConfigurableProduct
 Cancel,Poništi,module,Magento_ConfigurableProduct
 Name,Naziv,module,Magento_Contact
 Submit,Potvrdi,module,Magento_Contact
@@ -94,10 +97,10 @@ Edit,Uredi,module,Magento_Customer
 "New Password","Nova lozinka",module,Magento_Customer
 Save,Spremi,module,Magento_Customer
 Name,Naziv,module,Magento_Customer
-Price,Cijena,module,Magento_Downloadable
-File,Datoteka,module,Magento_Downloadable
 Yes,Da,module,Magento_Downloadable
 No,Ne,module,Magento_Downloadable
+Price,Cijena,module,Magento_Downloadable
+File,Datoteka,module,Magento_Downloadable
 Delete,Obriši,module,Magento_Downloadable
 Back,Natrag,module,Magento_Downloadable
 Qty,Kol,module,Magento_Downloadable
@@ -109,9 +112,9 @@ Yes,Da,module,Magento_EncryptionKey
 From,Od,module,Magento_GiftMessage
 To,Do,module,Magento_GiftMessage
 Cancel,Poništi,module,Magento_GiftMessage
+Name,Naziv,module,Magento_GroupedProduct
 Price,Cijena,module,Magento_GroupedProduct
 Qty,Kol,module,Magento_GroupedProduct
-Name,Naziv,module,Magento_GroupedProduct
 From,Od,module,Magento_ImportExport
 To,Do,module,Magento_ImportExport
 Delete,Obriši,module,Magento_ImportExport
@@ -145,6 +148,7 @@ Custom,Prilagođeno,module,Magento_Paypal
 Edit,Uredi,module,Magento_Paypal
 Price,Cijena,module,Magento_Paypal
 Qty,Kol,module,Magento_Paypal
+"What's this?","Što je ovo?",module,Magento_Persistent
 Discount,Popust,module,Magento_Quote
 From,Od,module,Magento_Reports
 To,Do,module,Magento_Reports
@@ -167,12 +171,9 @@ Quantity,Količina,module,Magento_Review
 Back,Natrag,module,Magento_Review
 Apply,Primjeni,module,Magento_Rule
 Remove,Ukloni,module,Magento_Rule
-Apply,Primjeni,module,Magento_SalesRule
-Yes,Da,module,Magento_SalesRule
-No,Ne,module,Magento_SalesRule
 Delete,Obriši,module,Magento_SalesRule
-From,Od,module,Magento_SalesRule
-To,Do,module,Magento_SalesRule
+No,Ne,module,Magento_SalesRule
+Yes,Da,module,Magento_SalesRule
 Discount,Popust,module,Magento_SalesRule
 Cancel,Poništi,module,Magento_Sales
 From,Od,module,Magento_Sales
@@ -194,8 +195,10 @@ Remove,Ukloni,module,Magento_Sales
 "Move to Wish List","Premjesti na popis želja",module,Magento_Sales
 Refresh,Osvježi,module,Magento_Sales
 Close,Zatvori,module,Magento_Sales
+Back,Natrag,module,Magento_Search
 No,Ne,module,Magento_Search
 Yes,Da,module,Magento_Search
+Delete,Obriši,module,Magento_Search
 Remove,Ukloni,module,Magento_SendFriend
 Name,Naziv,module,Magento_SendFriend
 Back,Natrag,module,Magento_SendFriend
@@ -212,8 +215,8 @@ Name,Naziv,module,Magento_Tax
 Save,Spremi,module,Magento_Tax
 Remove,Ukloni,module,Magento_Theme
 Close,Zatvori,module,Magento_Theme
-Back,Natrag,module,Magento_Ui
 Cancel,Poništi,module,Magento_Ui
+Back,Natrag,module,Magento_Ui
 Name,Naziv,module,Magento_UrlRewrite
 Back,Natrag,module,Magento_UrlRewrite
 Delete,Obriši,module,Magento_UrlRewrite
@@ -239,7 +242,11 @@ Edit,Uredi,module,Magento_Wishlist
 Product,Proizvod,module,Magento_Wishlist
 Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
-Cancel,Poništi,module,Magento_Catalog
+Cancel,Poništi,module,Magento_Checkout
+Close,Zatvori,module,Magento_Checkout
+Remove,Ukloni,module,Magento_Checkout
+Edit,Uredi,module,Magento_GiftMessage
+Delete,Obriši,module,Magento_GiftMessage
 Submit,Potvrdi,module,Magento_Catalog
 Save,Spremi,module,Magento_ProductVideo
 Cancel,Poništi,module,Magento_ProductVideo
@@ -248,14 +255,19 @@ Delete,Obriši,module,Magento_ProductVideo
 Close,Zatvori,module,Magento_Ui
 Delete,Obriši,module,Magento_Backup
 Name,Naziv,module,Magento_Backup
-Quantity,Količina,module,Magento_CatalogInventory
-Cancel,Poništi,module,Magento_Checkout
+Back,Natrag,module,Magento_CatalogRule
+Yes,Da,module,Magento_CatalogRule
+No,Ne,module,Magento_CatalogRule
+From,Od,module,Magento_Cms
+To,Do,module,Magento_Cms
 Delete,Obriši,module,Magento_Newsletter
 Price,Cijena,module,Magento_OfflineShipping
 Dashboard,"Upravljačka ploča",module,Magento_Reports
+From,Od,module,Magento_SalesRule
+To,Do,module,Magento_SalesRule
+Apply,Primjeni,module,Magento_SalesRule
 Dashboard,"Upravljačka ploča",module,Magento_Sales
 Name,Naziv,module,Magento_Sales
-Delete,Obriši,module,Magento_Search
 "Are you sure?","Jeste li sigurni?",module,Magento_Search
 Edit,Uredi,module,Magento_Search
 Edit,Uredi,module,Magento_UrlRewrite
