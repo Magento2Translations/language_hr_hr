@@ -13,6 +13,7 @@ Notifications,Obavijesti,module,Magento_AdminNotification
 "24 Hours","24 sata",module,Magento_AdminNotification
 notice,obavijest,module,Magento_AdminNotification
 Close,Zatvori,module,Magento_AdminNotification
+"We can't process your order right now. Please try again later.","Trenutno ne možemo obraditi vašu narudžbu. Pokušajte ponovo kasnije.",module,Magento_Authorizenet
 Product,Proizvod,module,Magento_Backend
 Price,Cijena,module,Magento_Backend
 Quantity,Količina,module,Magento_Backend
@@ -33,6 +34,7 @@ To,Do,module,Magento_Backend
 Submit,Potvrdi,module,Magento_Backend
 Dashboard,"Upravljačka ploča",module,Magento_Backend
 Close,Zatvori,module,Magento_Backend
+Month,Mjesec,module,Magento_Braintree
 Delete,Obriši,module,Magento_Braintree
 Back,Natrag,module,Magento_Braintree
 Submit,Potvrdi,module,Magento_Braintree
@@ -58,6 +60,9 @@ All,Sve,module,Magento_CatalogSearch
 Yes,Da,module,Magento_CatalogSearch
 No,Ne,module,Magento_CatalogSearch
 Product,Proizvod,module,Magento_CatalogSearch
+"Add to Cart","Stavi u košaricu",module,Magento_CatalogWidget
+"Save Category","Spremi kategoriju",module,Magento_Catalog
+"Delete Category","Obriši kategoriju",module,Magento_Catalog
 Name,Naziv,module,Magento_Catalog
 Price,Cijena,module,Magento_Catalog
 No,Ne,module,Magento_Catalog
@@ -72,6 +77,8 @@ Product,Proizvod,module,Magento_Catalog
 Products,Proizvodi,module,Magento_Catalog
 All,Sve,module,Magento_Catalog
 Qty,Kol,module,Magento_Catalog
+"Edit Terms and Conditions","Uredi Opće uvjete",module,Magento_CheckoutAgreements
+State/Province,Regija/pokrajina,module,Magento_Checkout
 Price,Cijena,module,Magento_Checkout
 Qty,Kol,module,Magento_Checkout
 Edit,Uredi,module,Magento_Checkout
@@ -84,8 +91,14 @@ Price,Cijena,module,Magento_ConfigurableProduct
 Quantity,Količina,module,Magento_ConfigurableProduct
 Name,Naziv,module,Magento_ConfigurableProduct
 Cancel,Poništi,module,Magento_ConfigurableProduct
+"* Required Fields","* Obavezna polja",module,Magento_Contact
+"Write Us","Pišite nam",module,Magento_Contact
 Name,Naziv,module,Magento_Contact
 Submit,Potvrdi,module,Magento_Contact
+Monthly,Mjesečno,module,Magento_Cron
+Import,Uvoz,module,Magento_CurrencySymbol
+"Manage Currency Rates","Upravljanje tečajima valuta",module,Magento_CurrencySymbol
+"Sign In",Prijava,module,Magento_Customer
 "Create Order","Kreiraj narudžbu",module,Magento_Customer
 Back,Natrag,module,Magento_Customer
 "Please select","Molimo odaberite",module,Magento_Customer
@@ -103,6 +116,7 @@ Edit,Uredi,module,Magento_Customer
 Save,Spremi,module,Magento_Customer
 Submit,Potvrdi,module,Magento_Customer
 Name,Naziv,module,Magento_Customer
+"--Please Select--","--Molimo vas odaberite---",module,Magento_Directory
 Price,Cijena,module,Magento_Downloadable
 File,Datoteka,module,Magento_Downloadable
 Yes,Da,module,Magento_Downloadable
@@ -125,6 +139,7 @@ From,Od,module,Magento_ImportExport
 To,Do,module,Magento_ImportExport
 Delete,Obriši,module,Magento_ImportExport
 Save,Spremi,module,Magento_Integration
+"Save & Activate","Spremi i aktiviraj",module,Magento_Integration
 Name,Naziv,module,Magento_Integration
 Remove,Ukloni,module,Magento_Integration
 Edit,Uredi,module,Magento_Integration
@@ -133,16 +148,20 @@ All,Sve,module,Magento_Integration
 No,Ne,module,Magento_LayeredNavigation
 Remove,Ukloni,module,Magento_LayeredNavigation
 Price,Cijena,module,Magento_Msrp
+Total,Ukupno,module,Magento_Multishipping
 Product,Proizvod,module,Magento_Multishipping
 Qty,Kol,module,Magento_Multishipping
 Edit,Uredi,module,Magento_Multishipping
 Price,Cijena,module,Magento_Multishipping
 Back,Natrag,module,Magento_Newsletter
 Cancel,Poništi,module,Magento_Newsletter
+"Zip/Postal Code","Poštanski broj",module,Magento_OfflineShipping
 No,Ne,module,Magento_OfflineShipping
+Year,Godina,module,Magento_Payment
 Discount,Popust,module,Magento_Payment
 Yes,Da,module,Magento_Payment
 No,Ne,module,Magento_Payment
+"Last Name",Prezime,module,Magento_Paypal
 Back,Natrag,module,Magento_Paypal
 Cancel,Poništi,module,Magento_Paypal
 Configure,Konfiguriraj,module,Magento_Paypal
@@ -153,7 +172,10 @@ Custom,Prilagođeno,module,Magento_Paypal
 Edit,Uredi,module,Magento_Paypal
 Price,Cijena,module,Magento_Paypal
 Qty,Kol,module,Magento_Paypal
+"Method ""%1"" is not defined in ""%2""","Metoda ""%1"" nije definirana u ""%2""",module,Magento_Persistent
 "What's this?","Što je ovo?",module,Magento_Persistent
+Title,Naslov,module,Magento_ProductVideo
+Description,Opis,module,Magento_ProductVideo
 Discount,Popust,module,Magento_Quote
 From,Od,module,Magento_Reports
 To,Do,module,Magento_Reports
@@ -248,6 +270,7 @@ Edit,Uredi,module,Magento_Wishlist
 Product,Proizvod,module,Magento_Wishlist
 Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
+"Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
 Cancel,Poništi,module,Magento_Catalog
 Submit,Potvrdi,module,Magento_Catalog
 Save,Spremi,module,Magento_ProductVideo
@@ -261,6 +284,7 @@ Quantity,Količina,module,Magento_CatalogInventory
 Cancel,Poništi,module,Magento_Checkout
 Delete,Obriši,module,Magento_Newsletter
 Price,Cijena,module,Magento_OfflineShipping
+"Full Page Cache","Predmemorija cijele stranice",module,Magento_PageCache
 Dashboard,"Upravljačka ploča",module,Magento_Reports
 Dashboard,"Upravljačka ploča",module,Magento_Sales
 Name,Naziv,module,Magento_Sales
