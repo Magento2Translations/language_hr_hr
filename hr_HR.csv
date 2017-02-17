@@ -254,7 +254,6 @@ Yes,Da,module,Magento_Usps
 No,Ne,module,Magento_Usps
 No,Ne,module,Magento_Variable
 Yes,Da,module,Magento_Variable
-"Credit Card was successfully removed","Kreditna kartica je uspješno uklonjena",module,Magento_Vault
 Close,Zatvori,module,Magento_Widget
 Products,Proizvodi,module,Magento_Widget
 All,Sve,module,Magento_Widget
