@@ -34,6 +34,7 @@ To,Do,module,Magento_Backend
 Submit,Potvrdi,module,Magento_Backend
 Dashboard,"Upravljačka ploča",module,Magento_Backend
 Close,Zatvori,module,Magento_Backend
+Delete,Obriši,module,Magento_Braintree
 Close,Zatvori,module,Magento_Bundle
 Product,Proizvod,module,Magento_Bundle
 Price,Cijena,module,Magento_Bundle
@@ -265,7 +266,6 @@ Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
 "Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
 Cancel,Poništi,module,Magento_Checkout
-Close,Zatvori,module,Magento_Checkout
 Remove,Ukloni,module,Magento_Checkout
 Edit,Uredi,module,Magento_GiftMessage
 Delete,Obriši,module,Magento_GiftMessage
