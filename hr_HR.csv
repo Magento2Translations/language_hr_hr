@@ -1,2 +1,299 @@
+"Read Details","Pročitajte detalje",module,Magento_AdminNotification
+"Are you sure?","Jeste li sigurni?",module,Magento_AdminNotification
+Remove,Ukloni,module,Magento_AdminNotification
+"Incoming Message","Dolazna poruka",module,Magento_AdminNotification
+close,zatvori,module,Magento_AdminNotification
+Notifications,Obavijesti,module,Magento_AdminNotification
+"The message has been marked as Read.","Poruka je označena kao pročitana.",module,Magento_AdminNotification
+"Please select messages.","Odaberite poruke.",module,Magento_AdminNotification
+"1 Hour","1 sat",module,Magento_AdminNotification
+"2 Hours","2 sata",module,Magento_AdminNotification
+"6 Hours","6 sati",module,Magento_AdminNotification
+"12 Hours","12 sati",module,Magento_AdminNotification
+"24 Hours","24 sata",module,Magento_AdminNotification
+notice,obavijest,module,Magento_AdminNotification
+Close,Zatvori,module,Magento_AdminNotification
+"We can't process your order right now. Please try again later.","Trenutno ne možemo obraditi vašu narudžbu. Pokušajte ponovo kasnije.",module,Magento_Authorizenet
+Product,Proizvod,module,Magento_Backend
+Price,Cijena,module,Magento_Backend
+Quantity,Količina,module,Magento_Backend
+"User Name","Korisničko ime",module,Magento_Backend
+"New Password","Nova lozinka",module,Magento_Backend
+"Password Confirmation","Potvrda lozinke",module,Magento_Backend
+Refresh,Osvježi,module,Magento_Backend
+Back,Natrag,module,Magento_Backend
+Delete,Obriši,module,Magento_Backend
+"Are you sure?","Jeste li sigurni?",module,Magento_Backend
+Save,Spremi,module,Magento_Backend
+Cancel,Poništi,module,Magento_Backend
+Yes,Da,module,Magento_Backend
+No,Ne,module,Magento_Backend
+Name,Naziv,module,Magento_Backend
+From,Od,module,Magento_Backend
+To,Do,module,Magento_Backend
+Submit,Potvrdi,module,Magento_Backend
+Dashboard,"Upravljačka ploča",module,Magento_Backend
+Close,Zatvori,module,Magento_Backend
+Month,Mjesec,module,Magento_Braintree
+Delete,Obriši,module,Magento_Braintree
+Back,Natrag,module,Magento_Braintree
+Submit,Potvrdi,module,Magento_Braintree
+Yes,Da,module,Magento_Braintree
+No,Ne,module,Magento_Braintree
+Edit,Uredi,module,Magento_Braintree
+Close,Zatvori,module,Magento_Bundle
+Product,Proizvod,module,Magento_Bundle
+Price,Cijena,module,Magento_Bundle
+Delete,Obriši,module,Magento_Bundle
+Name,Naziv,module,Magento_Bundle
+From,Od,module,Magento_Bundle
+To,Do,module,Magento_Bundle
+Quantity,Količina,module,Magento_Bundle
+Qty,Kol,module,Magento_CatalogInventory
+Apply,Primjeni,module,Magento_CatalogRule
+No,Ne,module,Magento_CatalogRule
+Yes,Da,module,Magento_CatalogRule
+From,Od,module,Magento_CatalogRule
+To,Do,module,Magento_CatalogRule
+Product,Proizvod,module,Magento_CatalogRule
+All,Sve,module,Magento_CatalogSearch
+Yes,Da,module,Magento_CatalogSearch
+No,Ne,module,Magento_CatalogSearch
+Product,Proizvod,module,Magento_CatalogSearch
+"Add to Cart","Stavi u košaricu",module,Magento_CatalogWidget
+"Save Category","Spremi kategoriju",module,Magento_Catalog
+"Delete Category","Obriši kategoriju",module,Magento_Catalog
+Name,Naziv,module,Magento_Catalog
+Price,Cijena,module,Magento_Catalog
+No,Ne,module,Magento_Catalog
+Yes,Da,module,Magento_Catalog
+Back,Natrag,module,Magento_Catalog
+Delete,Obriši,module,Magento_Catalog
+Save,Spremi,module,Magento_Catalog
+Quantity,Količina,module,Magento_Catalog
+Edit,Uredi,module,Magento_Catalog
+"Are you sure?","Jeste li sigurni?",module,Magento_Catalog
+Product,Proizvod,module,Magento_Catalog
+Products,Proizvodi,module,Magento_Catalog
+All,Sve,module,Magento_Catalog
+Qty,Kol,module,Magento_Catalog
+"Edit Terms and Conditions","Uredi Opće uvjete",module,Magento_CheckoutAgreements
+State/Province,Regija/pokrajina,module,Magento_Checkout
+Price,Cijena,module,Magento_Checkout
+Qty,Kol,module,Magento_Checkout
+Edit,Uredi,module,Magento_Checkout
+Edit,Uredi,module,Magento_Cms
+Delete,Obriši,module,Magento_Cms
+No,Ne,module,Magento_Config
+Yes,Da,module,Magento_Config
+Delete,Obriši,module,Magento_Config
+Price,Cijena,module,Magento_ConfigurableProduct
+Quantity,Količina,module,Magento_ConfigurableProduct
+Name,Naziv,module,Magento_ConfigurableProduct
+Cancel,Poništi,module,Magento_ConfigurableProduct
+"* Required Fields","* Obavezna polja",module,Magento_Contact
+"Write Us","Pišite nam",module,Magento_Contact
+Name,Naziv,module,Magento_Contact
+Submit,Potvrdi,module,Magento_Contact
+Monthly,Mjesečno,module,Magento_Cron
+Import,Uvoz,module,Magento_CurrencySymbol
+"Manage Currency Rates","Upravljanje tečajima valuta",module,Magento_CurrencySymbol
+"Sign In",Prijava,module,Magento_Customer
+"Create Order","Kreiraj narudžbu",module,Magento_Customer
+Back,Natrag,module,Magento_Customer
+"Please select","Molimo odaberite",module,Magento_Customer
+Product,Proizvod,module,Magento_Customer
+Quantity,Količina,module,Magento_Customer
+Price,Cijena,module,Magento_Customer
+Configure,Konfiguriraj,module,Magento_Customer
+Delete,Obriši,module,Magento_Customer
+Cancel,Poništi,module,Magento_Customer
+Qty,Kol,module,Magento_Customer
+No,Ne,module,Magento_Customer
+Yes,Da,module,Magento_Customer
+Edit,Uredi,module,Magento_Customer
+"New Password","Nova lozinka",module,Magento_Customer
+Save,Spremi,module,Magento_Customer
+Submit,Potvrdi,module,Magento_Customer
+Name,Naziv,module,Magento_Customer
+"--Please Select--","--Molimo vas odaberite---",module,Magento_Directory
+Price,Cijena,module,Magento_Downloadable
+File,Datoteka,module,Magento_Downloadable
+Yes,Da,module,Magento_Downloadable
+No,Ne,module,Magento_Downloadable
+Delete,Obriši,module,Magento_Downloadable
+Back,Natrag,module,Magento_Downloadable
+Qty,Kol,module,Magento_Downloadable
+Yes,Da,module,Magento_Eav
+No,Ne,module,Magento_Eav
+Back,Natrag,module,Magento_Email
+No,Ne,module,Magento_EncryptionKey
+Yes,Da,module,Magento_EncryptionKey
+From,Od,module,Magento_GiftMessage
+To,Do,module,Magento_GiftMessage
+Cancel,Poništi,module,Magento_GiftMessage
+Price,Cijena,module,Magento_GroupedProduct
+Qty,Kol,module,Magento_GroupedProduct
+Name,Naziv,module,Magento_GroupedProduct
+From,Od,module,Magento_ImportExport
+To,Do,module,Magento_ImportExport
+Delete,Obriši,module,Magento_ImportExport
+Save,Spremi,module,Magento_Integration
+"Save & Activate","Spremi i aktiviraj",module,Magento_Integration
+Name,Naziv,module,Magento_Integration
+Remove,Ukloni,module,Magento_Integration
+Edit,Uredi,module,Magento_Integration
+Custom,Prilagođeno,module,Magento_Integration
+All,Sve,module,Magento_Integration
+No,Ne,module,Magento_LayeredNavigation
+Remove,Ukloni,module,Magento_LayeredNavigation
+Price,Cijena,module,Magento_Msrp
+Total,Ukupno,module,Magento_Multishipping
+Product,Proizvod,module,Magento_Multishipping
+Qty,Kol,module,Magento_Multishipping
+Edit,Uredi,module,Magento_Multishipping
+Price,Cijena,module,Magento_Multishipping
+Back,Natrag,module,Magento_Newsletter
+Cancel,Poništi,module,Magento_Newsletter
+"Zip/Postal Code","Poštanski broj",module,Magento_OfflineShipping
+No,Ne,module,Magento_OfflineShipping
+Year,Godina,module,Magento_Payment
+Discount,Popust,module,Magento_Payment
+Yes,Da,module,Magento_Payment
+No,Ne,module,Magento_Payment
+"Last Name",Prezime,module,Magento_Paypal
+Back,Natrag,module,Magento_Paypal
+Cancel,Poništi,module,Magento_Paypal
+Configure,Konfiguriraj,module,Magento_Paypal
+Close,Zatvori,module,Magento_Paypal
+Yes,Da,module,Magento_Paypal
+No,Ne,module,Magento_Paypal
+Custom,Prilagođeno,module,Magento_Paypal
+Edit,Uredi,module,Magento_Paypal
+Price,Cijena,module,Magento_Paypal
+Qty,Kol,module,Magento_Paypal
+"Method ""%1"" is not defined in ""%2""","Metoda ""%1"" nije definirana u ""%2""",module,Magento_Persistent
+"What's this?","Što je ovo?",module,Magento_Persistent
+Title,Naslov,module,Magento_ProductVideo
+Description,Opis,module,Magento_ProductVideo
+Discount,Popust,module,Magento_Quote
+From,Od,module,Magento_Reports
+To,Do,module,Magento_Reports
+Yes,Da,module,Magento_Reports
+No,Ne,module,Magento_Reports
+Refresh,Osvježi,module,Magento_Reports
+Product,Proizvod,module,Magento_Reports
+Price,Cijena,module,Magento_Reports
+Discount,Popust,module,Magento_Reports
+Products,Proizvodi,module,Magento_Reports
+Quantity,Količina,module,Magento_Reports
+Name,Naziv,module,Magento_Reports
+Product,Proizvod,module,Magento_Review
+Edit,Uredi,module,Magento_Review
+Delete,Obriši,module,Magento_Review
+"Are you sure?","Jeste li sigurni?",module,Magento_Review
+Name,Naziv,module,Magento_Review
+Price,Cijena,module,Magento_Review
+Quantity,Količina,module,Magento_Review
+Back,Natrag,module,Magento_Review
+Apply,Primjeni,module,Magento_Rule
+Remove,Ukloni,module,Magento_Rule
+Apply,Primjeni,module,Magento_SalesRule
+Yes,Da,module,Magento_SalesRule
+No,Ne,module,Magento_SalesRule
+Delete,Obriši,module,Magento_SalesRule
+From,Od,module,Magento_SalesRule
+To,Do,module,Magento_SalesRule
+Discount,Popust,module,Magento_SalesRule
+Cancel,Poništi,module,Magento_Sales
+From,Od,module,Magento_Sales
+To,Do,module,Magento_Sales
+Configure,Konfiguriraj,module,Magento_Sales
+Product,Proizvod,module,Magento_Sales
+Price,Cijena,module,Magento_Sales
+Quantity,Količina,module,Magento_Sales
+Edit,Uredi,module,Magento_Sales
+Yes,Da,module,Magento_Sales
+No,Ne,module,Magento_Sales
+Discount,Popust,module,Magento_Sales
+Back,Natrag,module,Magento_Sales
+Products,Proizvodi,module,Magento_Sales
+Qty,Kol,module,Magento_Sales
+Apply,Primjeni,module,Magento_Sales
+Remove,Ukloni,module,Magento_Sales
+"Please select","Molimo odaberite",module,Magento_Sales
+"Move to Wish List","Premjesti na popis želja",module,Magento_Sales
+Refresh,Osvježi,module,Magento_Sales
+Close,Zatvori,module,Magento_Sales
+No,Ne,module,Magento_Search
+Yes,Da,module,Magento_Search
+Remove,Ukloni,module,Magento_SendFriend
+Name,Naziv,module,Magento_SendFriend
+Back,Natrag,module,Magento_SendFriend
+Product,Proizvod,module,Magento_Shipping
+Qty,Kol,module,Magento_Shipping
+Delete,Obriši,module,Magento_Shipping
+Cancel,Poništi,module,Magento_Shipping
+Save,Spremi,module,Magento_Shipping
+"Are you sure?","Jeste li sigurni?",module,Magento_Shipping
+All,Sve,module,Magento_Sitemap
+Delete,Obriši,module,Magento_Swatches
+Back,Natrag,module,Magento_Tax
+Name,Naziv,module,Magento_Tax
+Save,Spremi,module,Magento_Tax
+Remove,Ukloni,module,Magento_Theme
+Close,Zatvori,module,Magento_Theme
+Back,Natrag,module,Magento_Ui
+Cancel,Poništi,module,Magento_Ui
+Name,Naziv,module,Magento_UrlRewrite
+Back,Natrag,module,Magento_UrlRewrite
+Delete,Obriši,module,Magento_UrlRewrite
+Save,Spremi,module,Magento_UrlRewrite
+Custom,Prilagođeno,module,Magento_UrlRewrite
+No,Ne,module,Magento_UrlRewrite
+Back,Natrag,module,Magento_User
+"User Name","Korisničko ime",module,Magento_User
+"New Password","Nova lozinka",module,Magento_User
+"Password Confirmation","Potvrda lozinke",module,Magento_User
+Custom,Prilagođeno,module,Magento_User
+All,Sve,module,Magento_User
+Yes,Da,module,Magento_Usps
+No,Ne,module,Magento_Usps
+No,Ne,module,Magento_Variable
+Yes,Da,module,Magento_Variable
+Close,Zatvori,module,Magento_Widget
+Products,Proizvodi,module,Magento_Widget
+All,Sve,module,Magento_Widget
+Apply,Primjeni,module,Magento_Widget
+Qty,Kol,module,Magento_Wishlist
+Edit,Uredi,module,Magento_Wishlist
+Product,Proizvod,module,Magento_Wishlist
+Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
 "Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
+Cancel,Poništi,module,Magento_Catalog
+Submit,Potvrdi,module,Magento_Catalog
+Save,Spremi,module,Magento_ProductVideo
+Cancel,Poništi,module,Magento_ProductVideo
+Delete,Obriši,module,Magento_ProductVideo
+"Add Products","Dodaj proizvode",module,Magento_Sales
+Close,Zatvori,module,Magento_Ui
+Delete,Obriši,module,Magento_Backup
+Name,Naziv,module,Magento_Backup
+Quantity,Količina,module,Magento_CatalogInventory
+Cancel,Poništi,module,Magento_Checkout
+Delete,Obriši,module,Magento_Newsletter
+Price,Cijena,module,Magento_OfflineShipping
+"Full Page Cache","Predmemorija cijele stranice",module,Magento_PageCache
+Dashboard,"Upravljačka ploča",module,Magento_Reports
+Dashboard,"Upravljačka ploča",module,Magento_Sales
+Name,Naziv,module,Magento_Sales
+Delete,Obriši,module,Magento_Search
+"Are you sure?","Jeste li sigurni?",module,Magento_Search
+Edit,Uredi,module,Magento_Search
+Edit,Uredi,module,Magento_UrlRewrite
+Name,Naziv,module,Magento_Variable
+Product,Proizvod,module,Magento_Widget
+Quantity,Količina,module,Magento_Wishlist
+Configure,Konfiguriraj,module,Magento_Wishlist
+Delete,Obriši,module,Magento_Wishlist
