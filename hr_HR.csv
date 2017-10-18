@@ -34,7 +34,6 @@ To,Do,module,Magento_Backend
 Submit,Potvrdi,module,Magento_Backend
 Dashboard,"Upravljačka ploča",module,Magento_Backend
 Close,Zatvori,module,Magento_Backend
-Delete,Obriši,module,Magento_Braintree
 Close,Zatvori,module,Magento_Bundle
 Product,Proizvod,module,Magento_Bundle
 Price,Cijena,module,Magento_Bundle
@@ -255,6 +254,7 @@ Yes,Da,module,Magento_Usps
 No,Ne,module,Magento_Usps
 No,Ne,module,Magento_Variable
 Yes,Da,module,Magento_Variable
+"Credit Card was successfully removed","Kreditna kartica je uspješno uklonjena",module,Magento_Vault
 Close,Zatvori,module,Magento_Widget
 Products,Proizvodi,module,Magento_Widget
 All,Sve,module,Magento_Widget
@@ -266,6 +266,7 @@ Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
 "Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
 Cancel,Poništi,module,Magento_Checkout
+Close,Zatvori,module,Magento_Checkout
 Remove,Ukloni,module,Magento_Checkout
 Edit,Uredi,module,Magento_GiftMessage
 Delete,Obriši,module,Magento_GiftMessage
@@ -278,9 +279,6 @@ Close,Zatvori,module,Magento_Ui
 Delete,Obriši,module,Magento_Backup
 Name,Naziv,module,Magento_Backup
 Back,Natrag,module,Magento_CatalogRule
-From,Od,module,Magento_CatalogRule
-To,Do,module,Magento_CatalogRule
-Apply,Primjeni,module,Magento_CatalogRule
 Yes,Da,module,Magento_CatalogRule
 No,Ne,module,Magento_CatalogRule
 From,Od,module,Magento_Cms
