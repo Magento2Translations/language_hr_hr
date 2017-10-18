@@ -278,6 +278,9 @@ Close,Zatvori,module,Magento_Ui
 Delete,Obriši,module,Magento_Backup
 Name,Naziv,module,Magento_Backup
 Back,Natrag,module,Magento_CatalogRule
+From,Od,module,Magento_CatalogRule
+To,Do,module,Magento_CatalogRule
+Apply,Primjeni,module,Magento_CatalogRule
 Yes,Da,module,Magento_CatalogRule
 No,Ne,module,Magento_CatalogRule
 From,Od,module,Magento_Cms
