@@ -266,6 +266,7 @@ Back,Natrag,module,Magento_Wishlist
 Remove,Ukloni,theme,frontend/Magento/luma
 "Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
 Cancel,Poništi,module,Magento_Checkout
+Close,Zatvori,module,Magento_Checkout
 Remove,Ukloni,module,Magento_Checkout
 Edit,Uredi,module,Magento_GiftMessage
 Delete,Obriši,module,Magento_GiftMessage
@@ -278,9 +279,6 @@ Close,Zatvori,module,Magento_Ui
 Delete,Obriši,module,Magento_Backup
 Name,Naziv,module,Magento_Backup
 Back,Natrag,module,Magento_CatalogRule
-From,Od,module,Magento_CatalogRule
-To,Do,module,Magento_CatalogRule
-Apply,Primjeni,module,Magento_CatalogRule
 Yes,Da,module,Magento_CatalogRule
 No,Ne,module,Magento_CatalogRule
 From,Od,module,Magento_Cms
