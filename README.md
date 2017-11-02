@@ -11,7 +11,7 @@ There have been  302 strings translated of the 8458 strings in the Magento sourc
 
 Translation progress:![Progress](http://progressed.io/bar/4)
 
-# Instalation
+# Installation
 **Please select the git branch appropriate for your magento version from this repo.**
 ## Via composer
 To install this translation package with composer you need access to the command line of your server and you need to have [Composer](https://getcomposer.org).
