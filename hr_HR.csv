@@ -1,4 +1,5 @@
 "Read Details","Pročitajte detalje",module,Magento_AdminNotification
+"Mark as Read","Označi kao pročitano",module,Magento_AdminNotification
 "Are you sure?","Jeste li sigurni?",module,Magento_AdminNotification
 Remove,Ukloni,module,Magento_AdminNotification
 "Incoming Message","Dolazna poruka",module,Magento_AdminNotification
@@ -11,6 +12,7 @@ Notifications,Obavijesti,module,Magento_AdminNotification
 "6 Hours","6 sati",module,Magento_AdminNotification
 "12 Hours","12 sati",module,Magento_AdminNotification
 "24 Hours","24 sata",module,Magento_AdminNotification
+critical,kritično,module,Magento_AdminNotification
 notice,obavijest,module,Magento_AdminNotification
 Close,Zatvori,module,Magento_AdminNotification
 "We can't process your order right now. Please try again later.","Trenutno ne možemo obraditi vašu narudžbu. Pokušajte ponovo kasnije.",module,Magento_Authorizenet
