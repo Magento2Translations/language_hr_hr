@@ -28,8 +28,8 @@ Delete,Obriši,module,Magento_Backend
 "Are you sure?","Jeste li sigurni?",module,Magento_Backend
 Save,Spremi,module,Magento_Backend
 Cancel,Poništi,module,Magento_Backend
-Yes,Da,module,Magento_Backend
 No,Ne,module,Magento_Backend
+Yes,Da,module,Magento_Backend
 Name,Naziv,module,Magento_Backend
 From,Od,module,Magento_Backend
 To,Do,module,Magento_Backend
@@ -96,20 +96,20 @@ Import,Uvoz,module,Magento_CurrencySymbol
 "Manage Currency Rates","Upravljanje tečajima valuta",module,Magento_CurrencySymbol
 "Sign In",Prijava,module,Magento_Customer
 "Create Order","Kreiraj narudžbu",module,Magento_Customer
+Cancel,Poništi,module,Magento_Customer
+Delete,Obriši,module,Magento_Customer
+Save,Spremi,module,Magento_Customer
 Back,Natrag,module,Magento_Customer
 "Please select","Molimo odaberite",module,Magento_Customer
 Product,Proizvod,module,Magento_Customer
 Quantity,Količina,module,Magento_Customer
 Price,Cijena,module,Magento_Customer
 Configure,Konfiguriraj,module,Magento_Customer
-Delete,Obriši,module,Magento_Customer
-Cancel,Poništi,module,Magento_Customer
 Qty,Kol,module,Magento_Customer
 No,Ne,module,Magento_Customer
 Yes,Da,module,Magento_Customer
 Edit,Uredi,module,Magento_Customer
 "New Password","Nova lozinka",module,Magento_Customer
-Save,Spremi,module,Magento_Customer
 Name,Naziv,module,Magento_Customer
 "--Please Select--","--Molimo vas odaberite---",module,Magento_Directory
 Yes,Da,module,Magento_Downloadable
@@ -265,8 +265,6 @@ Qty,Kol,module,Magento_Wishlist
 Edit,Uredi,module,Magento_Wishlist
 Product,Proizvod,module,Magento_Wishlist
 Back,Natrag,module,Magento_Wishlist
-Remove,Ukloni,theme,frontend/Magento/luma
-"Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
 Cancel,Poništi,module,Magento_Checkout
 Remove,Ukloni,module,Magento_Checkout
 Edit,Uredi,module,Magento_GiftMessage
@@ -276,6 +274,9 @@ Cancel,Poništi,module,Magento_ProductVideo
 Delete,Obriši,module,Magento_ProductVideo
 "Add Products","Dodaj proizvode",module,Magento_Sales
 Close,Zatvori,module,Magento_Ui
+Yes,Da,module,Magento_AdvancedSearch
+No,Ne,module,Magento_AdvancedSearch
+Edit,Uredi,module,Magento_AdvancedSearch
 Delete,Obriši,module,Magento_Backup
 Name,Naziv,module,Magento_Backup
 Back,Natrag,module,Magento_CatalogRule
